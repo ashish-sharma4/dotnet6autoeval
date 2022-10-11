@@ -1,0 +1,668 @@
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/testhost.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/testhost.exe
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.runner.reporters.netcoreapp10.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.runner.utility.netcoreapp10.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.UnitTests.deps.json
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.UnitTests.runtimeconfig.json
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.UnitTests.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.UnitTests.pdb
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Newtonsoft.Json.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/NuGet.Frameworks.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.abstractions.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.assert.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.core.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.execution.dotnet.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.csproj.AssemblyReference.cache
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.AssemblyInfoInputs.cache
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.AssemblyInfo.cs
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.csproj.CoreCompileInputs.cache
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.csproj.CopyComplete
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/refint/ProductsAPIForTechGig.UnitTests.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.pdb
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.genruntimeconfig.cache
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ref/ProductsAPIForTechGig.UnitTests.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/CoverletSourceRootsMapping
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.deps.json
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.runtimeconfig.json
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/appsettings.Development.json
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/appsettings.json
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.exe
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/AutoMapper.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Castle.Core.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/FluentAssertions.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.OpenApi.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Moq.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Drawing.Common.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Runtime.Caching.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Security.Permissions.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Windows.Extensions.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.dll
+E:/AES-DemoProjects/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.pdb
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/appsettings.Development.json
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/appsettings.json
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.deps.json
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.runtimeconfig.json
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.runner.utility.netcoreapp10.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.UnitTests.deps.json
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.UnitTests.runtimeconfig.json
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.UnitTests.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ref/ProductsAPIForTechGig.UnitTests.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.UnitTests.pdb
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/AutoMapper.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Castle.Core.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/FluentAssertions.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/testhost.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Moq.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.abstractions.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.assert.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.core.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.execution.dotnet.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.pdb
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.csproj.AssemblyReference.cache
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.AssemblyInfoInputs.cache
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.AssemblyInfo.cs
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.csproj.CoreCompileInputs.cache
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.csproj.CopyComplete
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ref/ProductsAPIForTechGig.UnitTests.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.pdb
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.genruntimeconfig.cache
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestAdapter.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Spekt.TestLogger.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestLogger.dll
+/Users/monti.chandra/Downloads/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestAdapter.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/appsettings.Development.json
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/appsettings.json
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestLogger.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestAdapter.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestAdapter.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Spekt.TestLogger.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.runner.utility.netcoreapp10.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.deps.json
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.runtimeconfig.json
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.UnitTests.deps.json
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.UnitTests.runtimeconfig.json
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.UnitTests.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ref/ProductsAPIForTechGig.UnitTests.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.UnitTests.pdb
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/AutoMapper.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Castle.Core.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/FluentAssertions.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/testhost.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Moq.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.abstractions.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.assert.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.core.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.execution.dotnet.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.pdb
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.csproj.AssemblyReference.cache
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.AssemblyInfoInputs.cache
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.AssemblyInfo.cs
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.csproj.CoreCompileInputs.cache
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.csproj.CopyComplete
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ref/ProductsAPIForTechGig.UnitTests.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.pdb
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGig/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.genruntimeconfig.cache
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/appsettings.Development.json
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/appsettings.json
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestLogger.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestAdapter.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestAdapter.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Spekt.TestLogger.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.runner.utility.netcoreapp10.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.deps.json
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.runtimeconfig.json
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.UnitTests.deps.json
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.UnitTests.runtimeconfig.json
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.UnitTests.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ref/ProductsAPIForTechGig.UnitTests.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.UnitTests.pdb
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/AutoMapper.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Castle.Core.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/FluentAssertions.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/testhost.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Moq.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.abstractions.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.assert.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.core.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/xunit.execution.dotnet.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/bin/Debug/net6.0/ProductsAPIForTechGig.pdb
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.csproj.AssemblyReference.cache
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.AssemblyInfoInputs.cache
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.AssemblyInfo.cs
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.csproj.CoreCompileInputs.cache
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.csproj.CopyComplete
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ref/ProductsAPIForTechGig.UnitTests.dll
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.pdb
+/Users/monti.chandra/Documents/Monti/Questions/Frameworks questions/Zensar/DotNet/WebAPI-ProductAPI/ProductsAPIForTechGigDefaultStructure/ProductsAPIForTechGig.UnitTests/obj/Debug/net6.0/ProductsAPIForTechGig.UnitTests.genruntimeconfig.cache

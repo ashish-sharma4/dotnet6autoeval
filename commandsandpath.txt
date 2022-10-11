@@ -1,0 +1,21 @@
+dotnet build
+
+
+dotnet test --logger xunit --results-directory ./reports/
+
+dotnet test --logger xunit --results-directory ./reports/
+
+reports/TestResults.xml
+
+
+Steps to execute:
+Product Controller.cs
+Return null
+1. Execute test cases normally: No command will run by default as it does not have app settings.json. It will have Build.log
+2. Upload repository and controller files.
+3. Then run the test cases again
+4. To Fail: ProductApifor controller>Controllers>Product Controller.Cs 
+null line 44
+Unittest>Systems>Controlller>Testproductcontroller.cs mein change to change the test case
+
+
