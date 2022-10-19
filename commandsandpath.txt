@@ -1,21 +1,22 @@
 dotnet build
-
-
 dotnet test --logger xunit --results-directory ./reports/
-
 dotnet test --logger xunit --results-directory ./reports/
-
 reports/TestResults.xml
 
 
-Steps to execute:
-Product Controller.cs
-Return null
+Folder to hide is
+UnittestFolder
+
+1. To run default command> create appsettings.json and refresh the page
+2. How to see preview> dotnet run --project ProductsAPIForTechGig --urls=http://0.0.0.0:9090/
+3. How to fail one test case—— edit status code in TC file
+Unittest>Systems>Controlller>Testproductcontroller.cs mein change to change the test case
+
+
+
 1. Execute test cases normally: No command will run by default as it does not have app settings.json. It will have Build.log
 2. Upload repository and controller files.
 3. Then run the test cases again
-4. To Fail: ProductApifor controller>Controllers>Product Controller.Cs 
-null line 44
-Unittest>Systems>Controlller>Testproductcontroller.cs mein change to change the test case
+
 
 
