@@ -5,7 +5,8 @@ reports/TestResults.xml
 
 
 Folder to hide is
-UnittestFolder
+ProductsAPIForTechGig.UnitTests 
+
 
 1. To run default command> create appsettings.json and refresh the page
 2. How to see preview> dotnet run --project ProductsAPIForTechGig --urls=http://0.0.0.0:9090/
