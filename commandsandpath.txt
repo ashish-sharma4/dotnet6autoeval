@@ -10,10 +10,10 @@ ProductsAPIForTechGig.UnitTests
 Long text >>> https://docs.google.com/document/d/18ggxHPvzWJIOoSRvPXln_TpFcmLz4dhE/edit
 
 
-1. To run default command> create appsettings.json and refresh the page
+1. To run default command> create appsettings.json(if not already present) and refresh the page
 2. How to see preview> dotnet run --project ProductsAPIForTechGig --urls=http://0.0.0.0:9090/
 3. How to fail one test case—— edit status code in TC file
-Unittest>Systems>Controlller>Testproductcontroller.cs mein change to change the test case
+ProductsAPIFortechGif.Unittest>Systems>Controlller>Testproductcontroller.cs mein change to change the test case
 
 Command to pass all test cases:
 cp /home/tg-user/CandidateCode/answers/Controllers/*.cs /home/tg-user/CandidateCode/ProductsAPIForTechGig/Controllers;
