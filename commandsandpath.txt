@@ -15,7 +15,9 @@ Long text >>> https://docs.google.com/document/d/18ggxHPvzWJIOoSRvPXln_TpFcmLz4d
 3. How to fail one test case—— edit status code in TC file
 Unittest>Systems>Controlller>Testproductcontroller.cs mein change to change the test case
 
-
+Command to pass all test cases:
+cp /home/tg-user/CandidateCode/answers/Controllers/*.cs /home/tg-user/CandidateCode/ProductsAPIForTechGig/Controllers;
+cp /home/tg-user/CandidateCode/answers/Repository/*.cs /home/tg-user/CandidateCode/ProductsAPIForTechGig/Repository
 
 1. Execute test cases normally: No command will run by default as it does not have app settings.json. It will have Build.log
 2. Upload repository and controller files.
